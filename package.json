@@ -1,0 +1,22 @@
+{
+  "name": "ioyzhb--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "antd": "5.2.2",
+    "@ant-design/icons": "5.0.1",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
